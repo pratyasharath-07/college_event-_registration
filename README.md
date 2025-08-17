@@ -16,7 +16,7 @@ Technologies Used
 - JavaScript for form validation
 
 Link 
-file:///C:/Users/praty/Desktop/index.html
+https://pratyasharath-07.github.io/college_event-_registration/
 
 How to Use
 1. Open the live link above.  
