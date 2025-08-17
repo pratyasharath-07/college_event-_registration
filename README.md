@@ -23,6 +23,5 @@ How to Use
 2. Fill in your Name, Email, and Event selection.  
 3. Click Submit to register.
 
-## 👩‍💻 Author
-*Pratyasha R.*  
+Pratyasha Rath  
 Built with passion for space ✨ and web development 🚀
